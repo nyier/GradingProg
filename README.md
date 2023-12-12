@@ -33,10 +33,10 @@ PROYECTO
           -  brooke.jpg
           - estilos.css
         -  META-INF
-          -  context.xml
+          -context.xml
         -  WEB-INF
-          -  beans.xml
-          -  web.xml
+          - beans.xml
+          - web.xml
 
 # Requerimentos:
 
