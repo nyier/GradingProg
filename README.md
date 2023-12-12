@@ -79,3 +79,4 @@ Una vez aprobado, un colaborador con permisos de merge fusionará tu PR con la r
 Elimina tu branch localmente si ya no se necesita: git branch -d nombre_de_tu_branch.
 
 # Roadmap:
+Conforme pasa el tiempo voy a ir implementando funciones y arreglar bugs para mejorar la experiencia de usuario, el feedback de los usuarios me van a dar nuevas ideas para implementar y expandir esta app. Se le dara prioridad en su mantenimiento por 2 meses.
