@@ -12,7 +12,31 @@ La gestión manual de calificaciones por parte de los docentes en el nivel de ed
 ![image](https://github.com/nyier/GradingProg/assets/108092383/5882d2c3-49d3-41c2-9a24-70ddcf3d4f53)
 
 # Tabla de contenidos
-
+PROYECTO
+- src
+  -- main
+    --- java
+      ---- area
+        ------  imc.java
+        ------ usuario.java
+      ---- controller
+        ------  LoginServlet.java
+        ------  ServletMain.java
+        ------  ServletRegister.java
+    --- webapp
+        ------  calculo.jsp
+        ------  error.jsp
+        ------  index.jsp
+        ------  login.jsp
+        ------  register.jsp
+        ------  CSS
+          -------  brooke.jpg
+          ------- estilos.css
+        ------  META-INF
+          -------  context.xml
+        ------  WEB-INF
+          -------  beans.xml
+          -------  web.xml
 
 # Requerimentos:
 
