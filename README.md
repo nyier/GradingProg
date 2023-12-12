@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Estatus:
 ![Build Status](https://app.travis-ci.com/nyier/GradingProg.svg?branch=main)
 # Resumen Ejecutivo
@@ -80,3 +81,7 @@ Elimina tu branch localmente si ya no se necesita: git branch -d nombre_de_tu_br
 
 # Roadmap:
 Conforme pasa el tiempo voy a ir implementando funciones y arreglar bugs para mejorar la experiencia de usuario, el feedback de los usuarios me van a dar nuevas ideas para implementar y expandir esta app. Se le dara prioridad en su mantenimiento por 2 meses.
+=======
+# GradingProg
+![Build Status](https://app.travis-ci.com/nyier/GradingProg.svg?branch=develop)
+>>>>>>> develop
