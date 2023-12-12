@@ -1,2 +1,2 @@
 # GradingProg
-https://app.travis-ci.com/nyier/GradingProg.svg?branch=main
+![Build Status](https://app.travis-ci.com/nyier/GradingProg.svg?branch=main)
